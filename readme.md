@@ -6,8 +6,8 @@ Alternate methods for running a Windows dev env on a MacBook Pro exist. For exam
 
 # Prerequisites:
 
-	- MacBook Pro (>= 2016)
-	- Patience and attention to detail
+- MacBook Pro (>= 2016)
+- Patience and attention to detail
 
 # Details:
 
